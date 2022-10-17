@@ -5,4 +5,4 @@ Instacart is an online grocery store with good sales, operating through an app. 
 information about the sales patterns in order to improve the strategies for better segmentation.
 # Data
 Open source data from Instacart and the customer data set created for the purpose of this project: 
-https://www.instacart.com/datasets/grocery-shopping-2017  https://www.instacart.com/datasets/grocery-shopping-2017
+[Instacart data] (https://www.instacart.com/datasets/grocery-shopping-2017)
